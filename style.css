@@ -103,6 +103,19 @@ projects.html CSS Properties
  
  */
 
+#Catagory3 {
+background-color: black;
+width: 300px;
+left: 41%;
+top: 170px;
+text-align: center;
+font-size: 30px;
+color: white;
+border: 2px solid #FFFFFF;
+opacity: 70%;
+position: absolute;
+}
+
 #TextBox3 {
 background-color: black;
 width: 300px;
@@ -204,7 +217,7 @@ position: absolute;
 #TextBox7 {
 background-color: black;
 width: 300px;
-left: 33%;
+left: 32%;
 top: 250px;
 text-align: center;
 font-size: 30px;
@@ -212,4 +225,69 @@ color: white;
 border: 2px solid #FFFFFF;
 opacity: 70%;
 position: absolute;
+}
+
+#TextBox8 {
+background-color: black;
+width: 300px;
+left: 49%;
+top: 250px;
+text-align: center;
+font-size: 30px;
+color: white;
+border: 2px solid #FFFFFF;
+opacity: 70%;
+position: absolute;
+}
+
+#TextBoxParagraph5 {
+background-color: black;
+text-align: center;
+font-size: 22px;
+color: white;
+}
+
+#TextBox9 {
+background-color: black;
+width: 300px;
+left: 66%;
+top: 250px;
+text-align: center;
+font-size: 30px;
+color: white;
+border: 2px solid #FFFFFF;
+opacity: 70%;
+position: absolute;
+}
+
+#Catagory2 {
+background-color: black;
+width: 300px;
+left: 57%;
+top: 170px;
+text-align: center;
+font-size: 30px;
+color: white;
+border: 2px solid #FFFFFF;
+opacity: 70%;
+position: absolute;
+}
+
+/*
+ 
+error404.html CSS Properties
+ 
+ */
+
+#SubTitleFormat3 {
+background-color: black;
+width: 300px;
+top: 100px;
+left: 41%;
+text-align: center;
+font-size: 25px;
+color: white;
+border: 2px solid #FFFFFF;
+opacity: 70%;
+position: relative;
 }
