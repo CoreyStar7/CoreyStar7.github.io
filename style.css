@@ -5,29 +5,30 @@ index.html CSS Properties
  */
 
 body {
-background-color: #000000;
-background-image: url('../Images/Abstract_Vaporwave_Background.png');
-background-attachment: fixed;
-background-repeat: no-repeat;
+	background-color: #000000;
+	background-image: url('../Images/Abstract_Vaporwave_Background.png');
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: 100%;
 }
 
 #TitleFormat {
-color: #FFFFFF;
-text-align: center;
+	color: #FFFFFF;
+	text-align: center;
 }
 
 .button {
-border: 2px solid #FFFFFF;
-color: white;
-padding: 15px 32px;
-text-align: center;
-text-decoration: none;
-display: inline-block;
-font-size: 14px;
-margin: auto;
-cursor: pointer;
-opacity: 70%;
-width: 19%
+	border: 2px solid #FFFFFF;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 14px;
+	margin: auto;
+	cursor: pointer;
+	opacity: 70%;
+	width: 19%
 }
 
 .button1 {background-color: #000000;} /* Black */
@@ -37,64 +38,64 @@ width: 19%
 .button5 {background-color: #000000;} /* Black */
 
 #SubTitleFormat1 {
-background-color: black;
-width: 300px;
-top: 70px;
-left: 41%;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: relative;
+	background-color: black;
+	width: 300px;
+	top: 70px;
+	left: 41%;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: relative;
 }
 
 #TextBox1 {
-background-color: black;
-width: 300px;
-left: 32%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 32%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox2 {
-background-color: black;
-width: 300px;
-left: 50%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-position: absolute;
-opacity: 70%;
-}
+	background-color: black;
+	width: 300px;
+	left: 50%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	position: absolute;
+	opacity: 70%;
+	}
 
 
 #TextBoxParagraph1 {
-background-color: black;
-text-align: center;
-font-size: 25px;
-color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 25px;
+	color: white;
 }
 
 #TextBoxParagraph2 {
-background-color: black;
-text-align: center;
-font-size: 25px;
-color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 25px;
+	color: white;
 }
 
 #PageManager1 {
-z-index: 1;
-position: fixed;
-width: 70%;
-left: 15%;
+	z-index: 1;
+	position: fixed;
+	width: 70%;
+	left: 15%;
 }
 
 /*
@@ -104,82 +105,82 @@ projects.html CSS Properties
  */
 
 #Catagory3 {
-background-color: black;
-width: 300px;
-left: 41%;
-top: 170px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 41%;
+	top: 170px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox3 {
-background-color: black;
-width: 300px;
-left: 23%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 23%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox4 {
-background-color: black;
-width: 300px;
-left: 41%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 41%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox5 {
-background-color: black;
-width: 300px;
-left: 59%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 59%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #SubTitleFormat2 {
-background-color: black;
-width: 300px;
-top: 70px;
-left: 41%;
-text-align: center;
-font-size: 25px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: relative;
+	background-color: black;
+	width: 300px;
+	top: 70px;
+	left: 41%;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: relative;
 }
 
 #TextBoxParagraph3 {
-background-color: black;
-text-align: center;
-font-size: 23px;
-color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 23px;
+	color: white;
 }
 
 #TextBoxParagraph4 {
-background-color: black;
-text-align: center;
-font-size: 18px;
-color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 18px;
+	color: white;
 }
 
 /*
@@ -189,88 +190,88 @@ news-posts.html CSS Properties
  */
 
 #Catagory1 {
-background-color: black;
-width: 300px;
-left: 25%;
-top: 160px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 25%;
+	top: 160px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox6 {
-background-color: black;
-width: 300px;
-left: 15%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 15%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox7 {
-background-color: black;
-width: 300px;
-left: 32%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 32%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBox8 {
-background-color: black;
-width: 300px;
-left: 49%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 49%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #TextBoxParagraph5 {
-background-color: black;
-text-align: center;
-font-size: 22px;
-color: white;
+	background-color: black;
+	text-align: center;
+	font-size: 22px;
+	color: white;
 }
 
 #TextBox9 {
-background-color: black;
-width: 300px;
-left: 66%;
-top: 250px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 66%;
+	top: 250px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 #Catagory2 {
-background-color: black;
-width: 300px;
-left: 57%;
-top: 170px;
-text-align: center;
-font-size: 30px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: absolute;
+	background-color: black;
+	width: 300px;
+	left: 57%;
+	top: 170px;
+	text-align: center;
+	font-size: 30px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: absolute;
 }
 
 /*
@@ -280,14 +281,14 @@ error404.html CSS Properties
  */
 
 #SubTitleFormat3 {
-background-color: black;
-width: 300px;
-top: 100px;
-left: 41%;
-text-align: center;
-font-size: 25px;
-color: white;
-border: 2px solid #FFFFFF;
-opacity: 70%;
-position: relative;
+	background-color: black;
+	width: 300px;
+	top: 100px;
+	left: 41%;
+	text-align: center;
+	font-size: 25px;
+	color: white;
+	border: 2px solid #FFFFFF;
+	opacity: 70%;
+	position: relative;
 }
