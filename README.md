@@ -1,2 +1,2 @@
 # CoreyStar7.github.io
-This here is a project I'm creating for the school I go to as an assignment, however I am planning on making this my official website once I get in the quality of life features in, maybe I'm going to add javascript as well if I ever figure out how that works?
+This is my future site for storing and sharing all information about my upcoming and or latest projects, this site is now going under a huge revamp so stick around to see the new updates roll in!
